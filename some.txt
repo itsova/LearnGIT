@@ -1,5 +1,8 @@
-﻿!Hello, git.
+
+line for githab
+!Hello, git.
 
 
-t h i r e d   l i n e  
+t h i r e d   l i n e 
+ 
  
